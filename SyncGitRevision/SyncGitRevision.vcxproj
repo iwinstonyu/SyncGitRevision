@@ -100,7 +100,7 @@
       <Command>SyncRevision.bat</Command>
     </CustomBuildStep>
     <CustomBuildStep>
-      <Message>sync svn revision info</Message>
+      <Message>sync git revision info</Message>
     </CustomBuildStep>
     <CustomBuildStep>
       <Outputs>nonexistentfile</Outputs>
